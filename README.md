@@ -1,6 +1,6 @@
 ## Hello, I'm Muge Bakiryol! 👋
 
-- 💻 I’m currently a BSc. Student at Tilburg University 🇳🇱
+- 💻 I’m currently a MSc. Student at Tilburg University 🇳🇱
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about CSAI stuff.
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/mugebakiryol/
